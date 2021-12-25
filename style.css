@@ -1,0 +1,132 @@
+body{
+    font-family: "sans-serif";
+    text-align: center;
+    
+}
+
+/* home setting */
+h1, h2, h3, h4, h5, h6{
+    font-family: "sans-serif-bold";
+    font-weight: bold;
+    font-size: 4rem;
+}
+#Home{
+    background-color: #4831d4;
+    padding: 7% 15%;
+}
+.heading{
+   text-align: left;
+   color: #fff;
+}
+
+.heading-paragraph{
+    color: #fefeff;
+    font-size: 1.2rem; 
+    padding-right: auto;
+    text-align: left;
+}
+.profile-image{
+    width: 60%;
+    float: right;
+    transform: rotate(25deg);
+    
+    
+}
+
+/* navebar brand */
+.navbar{
+    padding: 0 0 4.5rem;
+    
+}
+
+.navbar-brand{
+    font-family: Ubuntu;
+    font-size: 2.5rem;
+    font-weight: bold;
+    
+    
+}
+.nav-item{
+    padding: 15px;
+    
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "sans-serif";
+}
+
+/* Container-capability */
+
+#capability{
+    padding: 7% 15%;
+    background-color: #fff;
+}
+
+.feature-box{
+text-align: center;
+padding: 5%;
+}
+
+.capability-h3{
+    font-size: 2.5rem;
+    padding: 3% 5% ;
+    text-align: left;
+    color: #4831d4;
+    font-family:"sans-serif-bold";
+    
+}
+.icon{
+   text-align: left;
+    font-size: 4rem;
+    padding-bottom: 2rem;
+   
+}
+
+.capability-paragraph{
+   font-size: 1.5rem;
+   color: #3d155f;
+   text-align: left;
+}
+
+/* selected work section */
+#select-work{
+    padding: 7% 15%;
+    background-color: #3d155f; 
+}
+
+.carousel-item{
+    padding: 7% 15%;
+    color: #fff;
+}
+
+
+.testimonial-image{
+    width: 150px;
+}
+
+.testimonial-text{
+    font-size: 2rem;
+}
+
+
+
+/* contact me/footer information */
+#contact{
+    padding: 7% 15%;
+    background-color:  #4831d4;
+    color:#fff;
+    text-align: left;
+
+}
+.contact-header{
+    font-size: 4rem;
+
+}
+
+.contact-paragraph{
+    font-size: 2rem;
+}
+.social-icon{
+    margin: 20px 10px;
+}
